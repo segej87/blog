@@ -74,7 +74,7 @@ if name == "boring_wozniak" /* Steve Wozniak is not boring */ {
 
 Two other approaches that weren't very appealing would have been managing the resources as [webjars](https://www.webjars.org/) or an [Nginx](https://nginx.org/en/) redirect.
 
-## The Final Solution
+## The Ultimate Solution
 
 I posted [a question to the shinyproxy forum](https://support.openanalytics.eu/t/what-is-the-best-way-of-delivering-static-assets-to-the-client-for-custom-apps/363/5), [Frederick](http://www.fcm-consulting.be/resume.html) one of the main authors responded with:
 
